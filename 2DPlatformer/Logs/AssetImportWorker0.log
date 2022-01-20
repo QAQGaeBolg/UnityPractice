@@ -1,0 +1,379 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.26f1c1 (cf0e0a163043) revision 13569546'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 16167 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.26f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Course/UnityPractice/2DPlatformer
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49838
+Successfully changed project path to: E:/Course/UnityPractice/2DPlatformer
+E:/Course/UnityPractice/2DPlatformer
+Using Asset Import Pipeline V2.
+AS: AutoStreaming module initializing.Refreshing native plugins compatible for Editor in 33.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.26f1c1 (cf0e0a163043)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.26f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Course/UnityPractice/2DPlatformer/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   
+    VRAM:     8083 MB
+    Driver:   30.0.100.9955
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1c1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56248
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002148 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 32.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.458 seconds
+Domain Reload Profiling:
+	ReloadAssembly (458ms)
+		BeginReloadAssembly (50ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (348ms)
+			LoadAssemblies (47ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (110ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (22ms)
+			SetupLoadedEditorAssemblies (131ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (32ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (60ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003676 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 53.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.099 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1100ms)
+		BeginReloadAssembly (147ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (902ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (261ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (373ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (54ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (194ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2197 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2631.
+Total: 2.881000 ms (FindLiveObjects: 0.165600 ms CreateObjectMapping: 0.040200 ms MarkObjects: 2.596100 ms  DeleteObjects: 0.078200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Resources
+  artifactKey: Guid(392b2133c14dab244a58ff10b9f278dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(392b2133c14dab244a58ff10b9f278dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43d6c06cd1448c07c46dfc7ac58334e0') in 0.006511 seconds 
+  Import took 0.009239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.998943 seconds.
+  path: Assets/Resources/pokemons
+  artifactKey: Guid(143b7c21ec6aee24dab8b0c38465ab5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons using Guid(143b7c21ec6aee24dab8b0c38465ab5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e3ea9a6e14cdc4a2eb6526e4ae6b05') in 0.009372 seconds 
+  Import took 0.034483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070931 seconds.
+  path: Assets/Resources/pokemons/001.png
+  artifactKey: Guid(4474d702dc25d504f9e60f775e715213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/001.png using Guid(4474d702dc25d504f9e60f775e715213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69c3394a48e90508b2ce6d2c9a229d8d') in 0.100236 seconds 
+  Import took 0.104504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Resources/pokemons/008.png
+  artifactKey: Guid(b79c243d02267e843bb300159eecbf94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/008.png using Guid(b79c243d02267e843bb300159eecbf94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a45e4cb562b1b2cd8ea7a8629574bdf') in 0.021204 seconds 
+  Import took 0.025170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Resources/pokemons/019.png
+  artifactKey: Guid(c5553a974d708e345988e20794f64893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/019.png using Guid(c5553a974d708e345988e20794f64893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f93e402e938d8ab8b6c45fb9f358a65') in 0.021670 seconds 
+  Import took 0.025305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Resources/pokemons/027.png
+  artifactKey: Guid(5d99343d32ba1ea4680325c6d4ba3922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/027.png using Guid(5d99343d32ba1ea4680325c6d4ba3922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97717819bdaae1dbc69334d053a89beb') in 0.017106 seconds 
+  Import took 0.020060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Resources/pokemons/014.png
+  artifactKey: Guid(69a67c5077a32c24881702e9648bcd2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/014.png using Guid(69a67c5077a32c24881702e9648bcd2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2229dbce8547e1189bedca64e37ab70') in 0.017251 seconds 
+  Import took 0.021903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Resources/pokemons/023.png
+  artifactKey: Guid(e55be21b683b7a446a911239a82f88c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/023.png using Guid(e55be21b683b7a446a911239a82f88c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84022cd1914924afcebc76f888c868f1') in 0.027127 seconds 
+  Import took 0.031081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Resources/pokemons/026.png
+  artifactKey: Guid(7d365e707e8611441b9e86fb8a11e881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/026.png using Guid(7d365e707e8611441b9e86fb8a11e881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d63dc8816dfcc7f27491de2f453d361') in 0.020960 seconds 
+  Import took 0.023973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Resources/pokemons/007.png
+  artifactKey: Guid(7d829a7820789d842bbd387239465838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/007.png using Guid(7d829a7820789d842bbd387239465838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0de0bf30d491ff97d8bf5ff0ccd0509') in 0.017947 seconds 
+  Import took 0.021428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Resources/pokemons/020.png
+  artifactKey: Guid(917eea85ba77be24b91385a16fbf7cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/020.png using Guid(917eea85ba77be24b91385a16fbf7cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b25b1881ab3d2dce8ffe7dc61890ef51') in 0.018382 seconds 
+  Import took 0.021623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Resources/pokemons/015.png
+  artifactKey: Guid(84a6a8b9bdd7bc94384c17a3e668aeff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/015.png using Guid(84a6a8b9bdd7bc94384c17a3e668aeff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '305d45f53225137fb9bbeb3ac469b0f4') in 0.017591 seconds 
+  Import took 0.021074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Resources/pokemons/018.png
+  artifactKey: Guid(21fe6ef9b1921b544a5920da76e1937c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/018.png using Guid(21fe6ef9b1921b544a5920da76e1937c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a3f803234ecbdad9436da1913831061') in 0.019583 seconds 
+  Import took 0.023013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Resources/pokemons/025.png
+  artifactKey: Guid(3751fdef92a8c2d42bfa5678c59c00b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/025.png using Guid(3751fdef92a8c2d42bfa5678c59c00b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2abda7efd2df58a87db3a0ef1a6b9d') in 0.017515 seconds 
+  Import took 0.021925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Resources/pokemons/003.png
+  artifactKey: Guid(e3abe211479b1aa42a875cb878b1ca17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/003.png using Guid(e3abe211479b1aa42a875cb878b1ca17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08b03d38a58222a041fa60229b1d73a2') in 0.017642 seconds 
+  Import took 0.021210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Resources/pokemons/011.png
+  artifactKey: Guid(52d509b7d1b567146ae15d4493989571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/011.png using Guid(52d509b7d1b567146ae15d4493989571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd371abb7c2d6bf46a9c528f9505ce95') in 0.019621 seconds 
+  Import took 0.023640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Resources/pokemons/016.png
+  artifactKey: Guid(787bdebb117f562449aaa82bc9868eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/016.png using Guid(787bdebb117f562449aaa82bc9868eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f86e1ed607fd644127d2c63807f7500') in 0.020942 seconds 
+  Import took 0.024359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Resources/pokemons/004.png
+  artifactKey: Guid(34a0643e751a2174da1b5ce2d03871de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/004.png using Guid(34a0643e751a2174da1b5ce2d03871de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdd59500eb2de1aac96a112602783412') in 0.035982 seconds 
+  Import took 0.057049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Resources/pokemons/010.png
+  artifactKey: Guid(b913bc9fcf9881142afbc7f865fda17f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/010.png using Guid(b913bc9fcf9881142afbc7f865fda17f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd74dffd055ab5f3f1becf756934e167') in 0.018269 seconds 
+  Import took 0.021607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Resources/pokemons/022.png
+  artifactKey: Guid(8d41931e12c887e43abe899553245d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/022.png using Guid(8d41931e12c887e43abe899553245d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec75ee643151add08d3fbea17cac3af4') in 0.018775 seconds 
+  Import took 0.021550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Resources/pokemons/021.png
+  artifactKey: Guid(aa09fcd72daba2047b3d5d4f42d0d75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/021.png using Guid(aa09fcd72daba2047b3d5d4f42d0d75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63747d5f69d46fa5973cdc86e15cb012') in 0.030475 seconds 
+  Import took 0.033442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Resources/pokemons/028.png
+  artifactKey: Guid(03feb276f4c2a824395554595915de54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/028.png using Guid(03feb276f4c2a824395554595915de54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9120eb6bb15e9c846ccbb8518b0cad0e') in 0.020834 seconds 
+  Import took 0.024534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Resources/pokemons/002.png
+  artifactKey: Guid(4ee93aaa8e4783843a1d30a7bf23dbb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/002.png using Guid(4ee93aaa8e4783843a1d30a7bf23dbb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff61884329227045041f983774f6acfc') in 0.020062 seconds 
+  Import took 0.023361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Resources/pokemons/017.png
+  artifactKey: Guid(811ec44c208c13049812446e0e5b033a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/017.png using Guid(811ec44c208c13049812446e0e5b033a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6a183271024dcde91951e513a54692') in 0.017569 seconds 
+  Import took 0.037695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Resources/pokemons/024.png
+  artifactKey: Guid(72bc823b92c6f1241a0549b64ab6484e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/024.png using Guid(72bc823b92c6f1241a0549b64ab6484e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '118f6c5986c7795677e5761ed556315e') in 0.021828 seconds 
+  Import took 0.025982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Resources/pokemons/012.png
+  artifactKey: Guid(c55117de3c350254b84edbacbd457695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/012.png using Guid(c55117de3c350254b84edbacbd457695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e3869232bcd2ca567278a97d082f837') in 0.019067 seconds 
+  Import took 0.022454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Resources/pokemons/005.png
+  artifactKey: Guid(659396b140e7c7d4fba9fe2668b2ea8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/005.png using Guid(659396b140e7c7d4fba9fe2668b2ea8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e14e226730286c63200d6dfe994dd53') in 0.151045 seconds 
+  Import took 0.155404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Resources/pokemons/009.png
+  artifactKey: Guid(062d9951ed06c234f9af4843b53796d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/009.png using Guid(062d9951ed06c234f9af4843b53796d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fc816f8a3f6384afc099418ad4cf629') in 0.036200 seconds 
+  Import took 0.039181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Resources/pokemons/006.png
+  artifactKey: Guid(f327d93d68f4e23458b5600f4a84a7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/006.png using Guid(f327d93d68f4e23458b5600f4a84a7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c7b649c1195128195526fe255fa259') in 0.018781 seconds 
+  Import took 0.021794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Resources/pokemons/013.png
+  artifactKey: Guid(6849e9197d3393840b7514f527b60c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/pokemons/013.png using Guid(6849e9197d3393840b7514f527b60c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c3837e5de4dedc2e89c74cf9ec4dee') in 0.019213 seconds 
+  Import took 0.036742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 843.926116 seconds.
+  path: Assets/Images/New Sprite Atlas.spriteatlas
+  artifactKey: Guid(fb0dbd14ee6ae1146a21fc2d435fceb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/New Sprite Atlas.spriteatlas using Guid(fb0dbd14ee6ae1146a21fc2d435fceb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efa0056062a2a8d9fee4fd3e64d90e94') in 0.017036 seconds 
+  Import took 0.021081 seconds .
+
