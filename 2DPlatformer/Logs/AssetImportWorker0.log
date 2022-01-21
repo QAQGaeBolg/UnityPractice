@@ -377,3 +377,4 @@ Received Import Request.
 Start importing Assets/Images/New Sprite Atlas.spriteatlas using Guid(fb0dbd14ee6ae1146a21fc2d435fceb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efa0056062a2a8d9fee4fd3e64d90e94') in 0.017036 seconds 
   Import took 0.021081 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
